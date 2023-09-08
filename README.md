@@ -1,1 +1,1 @@
-![counter](https://github.com/Satriadi93/Android-jv-counter/assets/112735827/4e81815b-adab-40e6-ab42-337e4da5d1a9)
+![counter (1)](https://github.com/Satriadi93/Android-jv-counter/assets/112735827/9a9fae8b-64df-4fa0-b2a6-cd9a4f76ca4a)
